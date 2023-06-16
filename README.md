@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbccode
 - Just started programming not quite long and very eager to learn.
-- 👀 I’m interested in Python coding, CSS, HTML, and recently looking forward on start Javascript soon
+- 👀 I’m interested in Python coding, CSS, HTML, and recently looking forward to starting Javascript soon. 
 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
